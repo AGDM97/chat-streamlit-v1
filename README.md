@@ -57,6 +57,8 @@ Este projeto é um aplicativo de chat construído com Streamlit e o modelo Gemin
 
 ## Estrutura do Projeto
 
+* .env >>> API_KEY para acesso ao modelo de IA
+* .gitignore >>> adicione o que precisa ser ignorado pelo Git
 * app.py >>> Arquivo principal do aplicativo Streamlit  1
 * functions.py >>> Funções utilitárias, incluindo a função get_secret para gerenciar a chave da API
 * requirements.txt >>> Lista de dependências do projeto
